@@ -24,7 +24,7 @@ Run parse.py on the saved file via command line (cmd.exe)
 
   parse.py gw.txt > results.txt
   
-Resulting output will be for easy copy paste ti War Data sheet:
+Resulting output will be easy copy paste to War Data sheet in the following format:
 
   Points -- TAB -- might / 1000 
 
