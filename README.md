@@ -28,4 +28,4 @@ Resulting output will be for easy copy paste ti War Data sheet:
 
   Points -- TAB -- might / 1000 
 
-For each member as listed in the members array.
+For each member as listed in the members list.
