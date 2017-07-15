@@ -11,7 +11,7 @@ Install Python 2.7 (https://www.python.org/download/releases/2.7/)
 
 Download or clone parse.py
 
-Open parse.py in notepad or similar and modify the members list. Members list IS case sensitive and the whole file IS space sensitive.
+Open parse.py in notepad or similar and modify the members list. Members list IS case sensitive and the whole file IS space sensitive. Save parse.py file.
 
 Start capturing on Wireshark
 
