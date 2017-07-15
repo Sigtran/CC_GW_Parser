@@ -3,19 +3,19 @@ Carves out GW data out of wireshark pcap.
 
 Instructions:
 
-Install Bluestacks
+Install Bluestacks (http://www.bluestacks.com/)
 
-Install Wireshark
+Install Wireshark (https://www.wireshark.org/download.html)
 
-Install Python 2.x (probably works on 3.x too)
+Install Python 2.7 (https://www.python.org/download/releases/2.7/)
 
 Download or clone parse.py
 
-Open parse.py in notepad or similar and modify the members list. Members list IS case sensitive.
+Open parse.py in notepad or similar and modify the members list. Members list IS case sensitive and the whole file IS space sensitive.
 
 Start capturing on Wireshark
 
-Login to CC on bluestacks and go through gw pages.
+Login to CC on bluestacks and go through GW pages.
 
 Save the capture as plain text (Wireshark --> File --> Export Packet Dissections --> As Plain Text)
 
