@@ -17,7 +17,7 @@ Start capturing on Wireshark
 
 Login to CC on bluestacks and go through GW pages.
 
-Save the capture as plain text (Wireshark --> File --> Export Packet Dissections --> As Plain Text)
+Save the capture as plain text (Wireshark --> File --> Export Packet Dissections --> As Plain Text -> name it gw.txt)
 
 
 Run parse.py on the saved file via command line (cmd.exe)
